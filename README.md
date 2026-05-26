@@ -1,8 +1,8 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
 
-## NAME:PRABANJAN R
-## REG NO:212224230198
+## NAME:K R THARUN
+## REG NO:212224040351
 
 
 ## AIM:
